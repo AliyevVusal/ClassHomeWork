@@ -1,0 +1,14 @@
+C:\Users\vusal\Desktop\HomeWork(Task_1_obirisi 3 dur)\HomeWork1\HomeWork1\bin\Debug\netcoreapp3.1\HomeWork1.exe
+C:\Users\vusal\Desktop\HomeWork(Task_1_obirisi 3 dur)\HomeWork1\HomeWork1\bin\Debug\netcoreapp3.1\HomeWork1.deps.json
+C:\Users\vusal\Desktop\HomeWork(Task_1_obirisi 3 dur)\HomeWork1\HomeWork1\bin\Debug\netcoreapp3.1\HomeWork1.runtimeconfig.json
+C:\Users\vusal\Desktop\HomeWork(Task_1_obirisi 3 dur)\HomeWork1\HomeWork1\bin\Debug\netcoreapp3.1\HomeWork1.runtimeconfig.dev.json
+C:\Users\vusal\Desktop\HomeWork(Task_1_obirisi 3 dur)\HomeWork1\HomeWork1\bin\Debug\netcoreapp3.1\HomeWork1.dll
+C:\Users\vusal\Desktop\HomeWork(Task_1_obirisi 3 dur)\HomeWork1\HomeWork1\bin\Debug\netcoreapp3.1\HomeWork1.pdb
+C:\Users\vusal\Desktop\HomeWork(Task_1_obirisi 3 dur)\HomeWork1\HomeWork1\obj\Debug\netcoreapp3.1\HomeWork1.csproj.AssemblyReference.cache
+C:\Users\vusal\Desktop\HomeWork(Task_1_obirisi 3 dur)\HomeWork1\HomeWork1\obj\Debug\netcoreapp3.1\HomeWork1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vusal\Desktop\HomeWork(Task_1_obirisi 3 dur)\HomeWork1\HomeWork1\obj\Debug\netcoreapp3.1\HomeWork1.AssemblyInfoInputs.cache
+C:\Users\vusal\Desktop\HomeWork(Task_1_obirisi 3 dur)\HomeWork1\HomeWork1\obj\Debug\netcoreapp3.1\HomeWork1.AssemblyInfo.cs
+C:\Users\vusal\Desktop\HomeWork(Task_1_obirisi 3 dur)\HomeWork1\HomeWork1\obj\Debug\netcoreapp3.1\HomeWork1.csproj.CoreCompileInputs.cache
+C:\Users\vusal\Desktop\HomeWork(Task_1_obirisi 3 dur)\HomeWork1\HomeWork1\obj\Debug\netcoreapp3.1\HomeWork1.dll
+C:\Users\vusal\Desktop\HomeWork(Task_1_obirisi 3 dur)\HomeWork1\HomeWork1\obj\Debug\netcoreapp3.1\HomeWork1.pdb
+C:\Users\vusal\Desktop\HomeWork(Task_1_obirisi 3 dur)\HomeWork1\HomeWork1\obj\Debug\netcoreapp3.1\HomeWork1.genruntimeconfig.cache
